@@ -6,15 +6,27 @@
 
 ##### 隐写术图：
 
-s191220013.QuickSorter:
+s191220013.QuickSorter:https://github.com/jwork-2021/jw03-JudithChen-19122/blob/main/s191220013.QuickSorter.png?raw=true
 
-s191220013.SelectSorter:
+![](https://github.com/jwork-2021/jw03-JudithChen-19122/blob/main/s191220013.QuickSorter.png?raw=true)
+
+s191220013.SelectSorter:https://github.com/jwork-2021/jw03-JudithChen-19122/blob/main/example.SelectSorter.png?raw=true
+
+![](https://github.com/jwork-2021/jw03-JudithChen-19122/blob/main/example.SelectSorter.png?raw=true)
 
 为了便于验证给出以下图片：
 
-example.QuickSorter:
+example.QuickSorter:https://github.com/jwork-2021/jw03-JudithChen-19122/blob/main/example.QuickSorter.png?raw=true
+
+![](https://github.com/jwork-2021/jw03-JudithChen-19122/blob/main/example.QuickSorter.png?raw=true)
+
+
 
 example.SelectSorter:
+
+https://github.com/jwork-2021/jw03-JudithChen-19122/blob/main/example.SelectSorter.png?raw=true
+
+![](https://github.com/jwork-2021/jw03-JudithChen-19122/blob/main/example.SelectSorter.png?raw=true)
 
 ##### 动画的链接：由于在线图片可能出现问题，此处使用的是本地路径
 
